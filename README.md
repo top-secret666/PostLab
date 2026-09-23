@@ -15,6 +15,7 @@ Create posts, attach files, manage categories & tags — clean card UI.
 **Suggested repo name:** `PostLab`  
 *(rename `labs` → Settings → General)*
 
+<img width="960" height="960" alt="4189d507e40262b78b8c7925aca73cbd" src="https://github.com/user-attachments/assets/ac507ecf-dcf9-40ef-b185-a507d9700ee8" />
 </div>
 
 ---
